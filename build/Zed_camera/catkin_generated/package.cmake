@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "Zed_camera")
+set(Zed_camera_MAINTAINER "dhaivat666 <dhaivat666@todo.todo>")
+set(Zed_camera_DEPRECATED "")
+set(Zed_camera_VERSION "0.0.0")
+set(Zed_camera_BUILD_DEPENDS "image_pipeline" "image_transport")
+set(Zed_camera_RUN_DEPENDS )
+set(Zed_camera_BUILDTOOL_DEPENDS "catkin")

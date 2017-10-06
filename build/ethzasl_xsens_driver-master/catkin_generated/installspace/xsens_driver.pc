@@ -1,0 +1,8 @@
+prefix=/home/dhaivat666/catkin_zed/install
+
+Name: xsens_driver
+Description: Description of xsens_driver
+Version: 1.0.3
+Cflags: 
+Libs: -L/home/dhaivat666/catkin_zed/install/lib 
+Requires: rospy std_msgs tf sensor_msgs geometry_msgs gps_common diagnostic_msgs

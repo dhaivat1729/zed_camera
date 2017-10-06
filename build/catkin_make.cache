@@ -1,0 +1,2 @@
+Zed_camera:ethzasl_xsens_driver-master
+-DCATKIN_DEVEL_PREFIX=/home/dhaivat666/catkin_zed/devel -DCMAKE_INSTALL_PREFIX=/home/dhaivat666/catkin_zed/install -G Unix Makefiles

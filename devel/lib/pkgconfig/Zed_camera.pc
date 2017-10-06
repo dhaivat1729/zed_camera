@@ -1,0 +1,8 @@
+prefix=/home/dhaivat666/catkin_zed/devel
+
+Name: Zed_camera
+Description: Description of Zed_camera
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/dhaivat666/catkin_zed/devel/lib 
+Requires: 
